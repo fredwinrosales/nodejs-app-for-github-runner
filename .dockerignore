@@ -1,0 +1,19 @@
+# Git / CI
+.git
+.github
+.gitignore
+
+# Dependencias locales y artefactos
+node_modules
+npm-debug.log
+*.log
+
+# Archivos temporales / IDE
+.DS_Store
+.vscode
+.idea
+
+# Tests, docs pesados, etc. (si aplican)
+tests
+docs
+*.md
